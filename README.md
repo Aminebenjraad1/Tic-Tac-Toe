@@ -69,7 +69,7 @@ El objetivo principal de la pantalla es **mostrar el estado actual del juego, in
 
 ## 💡 Explicación de la Placa de LEDs y Conexión  
 
-El juego cuenta con una **placa de circuito impreso (PCB) personalizada** que contiene **72 LEDs RGB WS2812B** organizados en el tablero de juego.  
+El juego cuenta con una **placa de circuito impreso (PCB)** que contiene **72 LEDs RGB WS2812B** organizados en el tablero de juego.  
 
 ![](https://keebd.com/cdn/shop/products/WS2812B-RGB-LED-KEEBD-1664353665.jpg?v=1664353667)
 
