@@ -127,4 +127,5 @@ Los **WS2812B** son LEDs **direccionables**, lo que significa que cada uno tiene
 - Agregar efectos de sonido más variados.  
 - Habilitar música de fondo para mayor inmersión.  
 - Integrar conectividad inalámbrica para una versión en línea del juego.  
-- Mejorar la interfaz de la pantalla con animaciones dinámicas.  
+- Mejorar la interfaz de la pantalla con animaciones dinámicas.
+- Habilitar al jugador a jugar contra la ia para mejorar sus estrategias.
