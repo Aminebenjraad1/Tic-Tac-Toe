@@ -69,13 +69,13 @@ El objetivo principal de la pantalla es **mostrar el estado actual del juego, in
 
 ## 💡 Explicación de la Placa de LEDs y Conexión  
 
-El juego cuenta con una **placa de circuito impreso (PCB)** que contiene **72 LEDs RGB WS2812B** organizados en el tablero de juego.  
+El juego cuenta con una **placa de circuito impreso (PCB)** que contiene **72 LEDs RGB WS2812B**.  
 
 ![](https://keebd.com/cdn/shop/products/WS2812B-RGB-LED-KEEBD-1664353665.jpg?v=1664353667)
 
 - **Se han utilizado LEDs WS2812B, similares a los de las tiras LED RGB direccionables**.  
 - **Cada LED se conecta en serie**, formando una única línea de datos.  
-- **El control se realiza a través de un solo pin del Arduino**, que envía señales a toda la cadena de LEDs.  
+- **El control se realiza a través de un solo pin del chip AtMega328p**, que envía señales a toda la cadena de LEDs.  
 
 ### 🔌 ¿Cómo están conectados los LEDs?  
 
@@ -118,7 +118,7 @@ Los **WS2812B** son LEDs **direccionables**, lo que significa que cada uno tiene
 3. La pantalla muestra el estado actual y la puntuación.  
 4. **Los LEDs se iluminan según las jugadas realizadas.**  
 5. El buzzer emite sonidos en cada jugada y cuando hay un ganador.  
-6. Para reiniciar el juego, se debe apagar y encender el sistema.
+6. Para reiniciar el juego, se debe apagar y encender el sistema o ganar la partida llegando a **5 puntos**.
 
 ---
 
