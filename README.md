@@ -111,7 +111,7 @@ Los **WS2812B** son LEDs **direccionables**, lo que significa que cada uno tiene
 
 ## 🎮 Modo de Uso  
 
-![](https://curator-production.s3.us.cloud-object-storage.appdomain.cloud/uploads/md5-10bc4d3b74451c4a46ff626c5624482f-course_card.png)
+![](https://media.istockphoto.com/id/1365567894/vector/hand-drawn-vector-tic-tac-toe-game-noughts-and-crosses-doodle-sketch.jpg?s=612x612&w=0&k=20&c=pSs72urXBp6V8pnXvuJIfX3krtUoFhHaX6fG2g1PxUQ=)
 
 1. **Encender el dispositivo.**  
 2. Los jugadores toman turnos presionando los botones correspondientes.  
